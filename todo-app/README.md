@@ -47,10 +47,10 @@ A simple, responsive and interactive To-Do List application built using **React*
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/react-todo-list.git
+git clone https://github.com/Akhileshyadu00/React-Todo-app.git
 
 # Navigate into the project folder
-cd react-todo-list
+cd todo-app
 
 # Install dependencies
 npm install
