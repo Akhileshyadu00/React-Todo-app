@@ -1,11 +1,13 @@
-import React from 'react'
+import React from "react";
 
 function Header() {
   return (
-    <div>
-    <h1 className="text-4xl font-bold text-center">To-Do List</h1>
-    </div>
-  )
+    <header className="mb-6">
+      <h1 className="text-4xl font-bold text-center">
+        To-Do List Using React
+      </h1>
+    </header>
+  );
 }
 
-export default Header
+export default Header;
